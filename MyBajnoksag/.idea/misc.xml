@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_bundesliga.xml" value="0.33" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_laliga.xml" value="0.33" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_ligue1.xml" value="0.33" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_premier_league.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_seria_aactivity.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_signup.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/activity_teams_view.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout-land/table.xml" value="0.1591710758377425" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_bundesliga.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_laliga.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_laliga_teams.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_ligue1.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_premier_league.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_seria_aactivity.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_signup.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/activity_teams_view.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/belov/AndroidStudioProjects/MyBajnoksag/app/src/main/res/layout/table.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

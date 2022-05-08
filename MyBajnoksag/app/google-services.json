@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978474351301",
+    "project_id": "mobilbajnoksag",
+    "storage_bucket": "mobilbajnoksag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978474351301:android:ef233f61a4b586ba688eac",
+        "android_client_info": {
+          "package_name": "com.example.mybajnoksag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978474351301-6usbv2rlhup8d5unpc1s9cro488i86qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mybajnoksag",
+            "certificate_hash": "87d76e0d62a67b6599be803e45924bd695deffe8"
+          }
+        },
+        {
+          "client_id": "978474351301-a9sm8gng462bipro5aoncl1jukmq2230.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlESh2_hbF0-izBgqOw3vChlzua5CmT6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978474351301-a9sm8gng462bipro5aoncl1jukmq2230.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

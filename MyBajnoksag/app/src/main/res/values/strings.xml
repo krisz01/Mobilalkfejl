@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MyBajnoksag</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="email">Email cím</string>
+    <string name="signup">Regisztráció</string>
+    <string name="username">Felhasználónév</string>
+    <string name="back">Vissza</string>
+    <string name="repassword">Jelszó megerősítése</string>
+    <string name="placement">Helyezés</string>
+    <string name="name">Név</string>
+    <string name="win">Nyert</string>
+    <string name="draw">Döntetlen</string>
+    <string name="lose">Vereség</string>
+    <string name="points">Pont</string>
+    <string name="allmatch">Összes meccs</string>
+    <string name="addTeam">Csapat hozzáadása</string>
+    <string name="newTeamname">Csapat neve</string>
+
+    <string-array name="laliga_team_names">
+        <item>Barcelona</item>
+        <item>Real Madrid</item>
+        <item>Sevilla</item>
+        <item>Real Sociedad</item>
+        <item>Atletico Madrid</item>
+        <item>Real Betis</item>
+        <item>Villareal</item>
+        <item>Atletico Bilbao</item>
+        <item>Osasuna</item>
+        <item>Valencia</item>
+    </string-array>
+
+    <string-array name="laliga_team_win">
+        <item>18</item>
+        <item>24</item>
+        <item>17</item>
+        <item>15</item>
+        <item>18</item>
+        <item>17</item>
+        <item>14</item>
+        <item>12</item>
+        <item>12</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="laliga_team_lose">
+        <item>6</item>
+        <item>3</item>
+        <item>4</item>
+        <item>8</item>
+        <item>8</item>
+        <item>10</item>
+        <item>9</item>
+        <item>9</item>
+        <item>8</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="laliga_team_draw">
+        <item>9</item>
+        <item>6</item>
+        <item>12</item>
+        <item>10</item>
+        <item>7</item>
+        <item>6</item>
+        <item>10</item>
+        <item>12</item>
+        <item>8</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="laliga_team_points">
+        <item>63</item>
+        <item>78</item>
+        <item>63</item>
+        <item>55</item>
+        <item>60</item>
+        <item>57</item>
+        <item>52</item>
+        <item>48</item>
+        <item>44</item>
+        <item>42</item>
+    </string-array>
+</resources>

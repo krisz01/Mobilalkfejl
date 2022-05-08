@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TeamsViewActivity">
+
+
+    <ImageView
+        android:id="@+id/laliga"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:onClick="openLaliga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.089"
+        app:srcCompat="@drawable/laliga"></ImageView>
+
+    <ImageView
+        android:id="@+id/bundesliga"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:onClick="openBundesliga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/seriaa"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.232"
+        app:srcCompat="@drawable/bundesliga"></ImageView>
+
+    <ImageView
+        android:id="@+id/ligue1"
+        android:layout_width="130dp"
+        android:layout_height="232dp"
+        android:layout_marginLeft="12dp"
+        android:onClick="openLigue1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/premierleague"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.089"
+        app:srcCompat="@drawable/ligue1"></ImageView>
+
+    <ImageView
+        android:id="@+id/premierleague"
+        android:layout_width="130dp"
+        android:layout_height="232dp"
+        android:layout_marginLeft="12dp"
+        android:onClick="openPremierLeague"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/laliga"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.089"
+        app:srcCompat="@drawable/premierleague"></ImageView>
+
+    <ImageView
+        android:id="@+id/seriaa"
+        android:layout_width="130dp"
+        android:layout_height="232dp"
+        android:layout_marginLeft="12dp"
+        android:onClick="openSeriaA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/ligue1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.089"
+        app:srcCompat="@drawable/seriaa"></ImageView>
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="logout"
+        android:text="Kijelentkezés"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ligue1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
